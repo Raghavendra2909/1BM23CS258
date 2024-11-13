@@ -143,5 +143,35 @@ int main(){
 
 }
 
+/*
+Enter the values for linked list:
+1
+Enter the next value for linked list (-1 to stop):
+2
+Enter the next value for linked list (-1 to stop):
+3
+Enter the next value for linked list (-1 to stop):
+4
+Enter the next value for linked list (-1 to stop):
+5
+Enter the next value for linked list (-1 to stop):
+6
+Enter the next value for linked list (-1 to stop):
+-1
+1-> 2-> 3-> 4-> 5-> 6-> NULL 
+Enter the val to be inserted at the beginning:
+45
+45-> 1-> 2-> 3-> 4-> 5-> 6-> NULL 
+Enter the val to be inserted at the end:
+96
+45-> 1-> 2-> 3-> 4-> 5-> 6-> 96-> NULL 
+Enter the val to be inserted at 3th posn
+5
+45-> 1-> 2-> 5-> 3-> 4-> 5-> 6-> 96-> NULL 
+1-> 2-> 5-> 3-> 4-> 5-> 6-> 96-> NULL
+1-> 2-> 5-> 3-> 4-> 5-> 6-> NULL
+1-> 5-> 3-> 4-> 5-> 6-> NULL
+*/
+
 
 
