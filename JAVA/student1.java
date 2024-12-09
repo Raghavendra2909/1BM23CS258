@@ -36,7 +36,7 @@ class Internals extends Student {
         }
     }
 }
-
+//external
 class External extends Student{
     int[] see;
     Internals  internals;
