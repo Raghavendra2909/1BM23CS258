@@ -47,3 +47,21 @@ public class IPCdead{
     }
 }
 
+
+/*
+output:
+Thread 1: Holding lock1
+Thread 2: Holding lock2
+Produced: 1
+Consumed: 1
+Produced: 2
+Consumed: 2
+Produced: 3
+Consumed: 3
+Produced: 4
+Consumed: 4
+Produced: 5
+Consumed: 5
+
+
+*/
