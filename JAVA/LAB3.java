@@ -53,3 +53,10 @@ public class abstractclass {
         circle.printArea();
     }
 }
+
+
+/*Output:
+Area of rectangle is: 50.0
+Area of Triangle = 40.0
+Area of Circle = 153.86
+*/
