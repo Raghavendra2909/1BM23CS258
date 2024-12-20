@@ -34,4 +34,22 @@ public class threds {
     }
 }
 
+/*Output:
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+*/
 
