@@ -101,3 +101,35 @@ public  class bankprogram{
         c.withdraw(654554654);
 }
 }
+
+
+/*Output:
+Account Name: Raju
+Account Number: 354510104
+Balance= 500.0
+Account Type: Saving Account
+Processing deposit ................
+Deposited amount: 4523
+Processing withdrawl.................
+Withdrawn amount: 1000
+Interest added
+Balance = 4224.15
+Processing withdrawl.................
+Insufficient balance
+Account Name: Raju
+Account Number: 354510104
+Balance= 4224.15
+Account Type: Saving Account
+--------------------------------------------------------------------------------------------------
+Account Name: Aakash
+Account Number: 354520107
+Balance= 4586.0
+Account Type: Current Account
+Processing deposit ................
+Deposited amount: 454857
+Processing withdrawl.................
+Withdrawn amount: 4565
+Balance is sufficient
+Processing withdrawl.................
+Insufficient balance
+*/
