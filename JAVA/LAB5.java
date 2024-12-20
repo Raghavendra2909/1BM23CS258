@@ -64,3 +64,23 @@ public class student1 {
         e.display();
         }
     }
+
+
+/*Output:
+USN = 1BM23CS6647
+Name = Rahul
+Sem = 3
+SEE marks:
+90
+80
+70
+45
+90
+Internal marks
+85
+75
+65
+65
+78
+
+*/
